@@ -16,4 +16,4 @@ Welcome to my profile! I am a passionate Computer Science enthusiast from India.
 
 - 📫 Feel free to connect with me:
   - Email: [mohantyphanibhusan@gmail.com](mailto:mohantyphanibhusan@gmail.com)
-  - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/phani-bhusan-mohanty-370b93237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  - LinkedIn: [Phani Bhusan](https://www.linkedin.com/in/phani-bhusan-mohanty-370b93237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
